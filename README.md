@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bottinii&label=Profile%20views&color=0e75b6&style=flat" alt="bottinii" /> </p>
 
-- 🔭 I’m currently working on [AdvancedTk](https://google.com)
+- 🔭 I’m currently working on [CodeGenie](https://github.com/bottinii/CodeGenie)
 
 - 🌱 I’m currently learning **Django, Machine Learning and Js**
 
